@@ -1,0 +1,1 @@
+The current project is to ultimately create the basic google homepage. I have created repository along with creating a directory to copy it to. I will be implementing basic HTML along with CSS when completed. 
